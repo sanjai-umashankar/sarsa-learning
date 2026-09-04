@@ -31,8 +31,8 @@ The objective is to train an optimal control policy in an unknown discrete Marko
    - Return the final optimal $Q$-function, state-value function $V(s) = \max_a Q(s, a)$, final greedy policy, and training history.
 
 ## SARSA LEARNING FUNCTION
-### Name: Joel John Jobinse
-### Register Number: 212223240062
+### Name: SANJAI  U
+### Register Number: 212224240145
 
 ```
 def sarsa(env,
@@ -114,14 +114,14 @@ def sarsa(env,
 <img width="932" height="716" alt="image" src="https://github.com/user-attachments/assets/c78a738b-d86f-442a-810f-4e05a1ccd5bc" />
 
 ### First-visit Monte-Carlo Control
-<img width="743" height="767" alt="image" src="https://github.com/user-attachments/assets/2914c7e5-fe5f-4b19-ab25-26321bf9eea9" />
+<img width="926" height="937" alt="image" src="https://github.com/user-attachments/assets/0e07a253-87be-4fd4-b6d8-f626e2074635" />
+
 
 ### SARSA-Learning
-<img width="755" height="786" alt="image" src="https://github.com/user-attachments/assets/7b9a3a1a-6abc-4b36-8b0b-5951d7f71c5c" />
+<img width="945" height="961" alt="image" src="https://github.com/user-attachments/assets/914f2bfe-2dc6-4a94-b727-be5ba4380c7d" />
 
 ### First-visit Monte-Carlo vs SARSA-learning
-<img width="911" height="287" alt="image" src="https://github.com/user-attachments/assets/3179bc45-5b6f-4a63-85ff-bb23b4befa3d" />
-<img width="902" height="285" alt="image" src="https://github.com/user-attachments/assets/d1f323e7-81ba-4b8e-b37b-d7397e8bbee7" />
+<img width="1692" height="930" alt="ChatGPT Image Sep 4, 2026, 08_46_07 PM" src="https://github.com/user-attachments/assets/478ee8bc-2e59-4bf4-89bf-a55ab442fb08" />
 
 ## RESULT:
 
